@@ -3,20 +3,20 @@
 A simple backend service that creates,reads, update and deletes data in a SQL database with Python Flask.
 
 # Sections in the article
-### [Getting Started](##-getting-started)
+### [Getting Started](##getting-started)
 ### [Setting up virtual environment](##setting-up-virtual-environment)
-### [Dependencies](##-dependencies)
-### [Setting up codebase](##-setting-up-codebase) 
-- [Importing dependencies](###-importing-dependencies)
-- [Create flask instance](##-create-flask-instance)
-- [Connect Database](###-connect-postgres-database)
-- [Bind the SQLAlchemy instance to flask app](###-bind-the-sqlalchemy-instance-to-flask-app)
-- [Create a model](###-create-a-model)
-- [Create a table in database](###-create-a-table-in-the-database)
-### [Create a new record](##-creating-a-new-record) 
-### [Get a record](##-get-a-record)
-### [Update A Record](##-update-a-record)
-### [Delete A Record](##-delete-a-record)
+### [Dependencies](##dependencies)
+### [Setting up codebase](##setting-up-codebase) 
+- [Importing dependencies](###importing-dependencies)
+- [Create flask instance](###create-flask-instance)
+- [Connect Database](###connect-postgres-database)
+- [Bind the SQLAlchemy instance to flask app](###bind-the-sqlalchemy-instance-to-flask-app)
+- [Create a model](###create-a-model)
+- [Create a table in database](###create-a-table-in-the-database)
+### [Create a new record](##creating-a-new-record) 
+### [Get a record](##get-a-record)
+### [Update A Record](##update-a-record)
+### [Delete A Record](##delete-a-record)
 ## Getting Started
 I expect you have the below listed already in your PC
 
