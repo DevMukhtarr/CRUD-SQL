@@ -3,10 +3,10 @@
 A simple backend service that creates,reads, update and deletes data in a SQL database with Python Flask.
 
 # Sections in the article
-### [Getting Started](#getting-started)
-### [Setting up virtual environment](#setting-up-virtual-environment)
-### [Dependencies](#dependencies)
-### [Setting up codebase](#setting-up-codebase) 
+### [Getting Started](##getting-started)
+### [Setting up virtual environment](##setting-up-virtual-environment)
+### [Dependencies](##dependencies)
+### [Setting up codebase](##setting-up-codebase) 
 - [Importing dependencies](#importing-dependencies)
 - [Create flask instance](#create-flask-instance)
 - [Connect Database](#connect-postgres-database)
